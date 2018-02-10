@@ -1,5 +1,3 @@
-import ReverseLinkedList.ListNode;
-
 public class PalindromeLinkedList {
 	public static class ListNode {
 		int val;
